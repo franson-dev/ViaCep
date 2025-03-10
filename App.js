@@ -1,5 +1,4 @@
 import { Text, SafeAreaView, StyleSheet, TextInput, Button } from 'react-native';
-import { Text, SafeAreaView, StyleSheet, TextInput, Button } from 'react-native-paper';
 import { useState } from 'react';
 
 
